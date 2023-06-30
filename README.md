@@ -6,8 +6,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <Body>
-<img src="499d2db0-bfb6-4a3c-805c-2a3d6a61e899
-">
+<img src="https://github.com/kelvingds/k/assets/137503779/2793bb92-422c-4443-a351-7ed053841ad8">
         <h1> Vinicius Jr</h1>
         Vinícius José Paixão de Oliveira Júnior, mais conhecido como Vinícius Júnior ou Vini Jr, é um futebolista brasileiro que atua como ponta-esquerda. Atualmente joga no Real Madrid e pela Seleção Brasileira.
 Nascimento: 12 de julho de 2000 (idade 22 anos), São Gonçalo, Rio de Janeiro
